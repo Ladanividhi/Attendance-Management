@@ -3,7 +3,7 @@
 A web-based Attendance Management System built with **PHP** and **MySQL** that enables educational institutions to efficiently track and manage student attendance.
 
 
-### 📋 Description
+## 📋 Description
 
 This system simplifies the attendance process by providing dedicated dashboards for both **staff** and **students**, featuring secure role-based access. Staff can manage attendance and student data, while students can view their attendance and submit feedback.
 
@@ -58,16 +58,16 @@ Make sure the database hwproject is created and relevant tables are imported bef
 
 ### 💡 Usage
 
-### Staff Login  
+## Staff Login  
 Log in to mark attendance, view attendance records, student lists, and manage passwords.
 
-### Student Login  
+## Student Login  
 Log in to view attendance history and submit anonymous feedback.
 
-### Attendance Marking  
+## Attendance Marking  
 Staff selects a date and marks each student as present or absent.
 
-### Feedback  
+## Feedback  
 Students can submit anonymous feedback to share their experience.
 
 
