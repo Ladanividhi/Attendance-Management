@@ -58,19 +58,28 @@ Make sure the database hwproject is created and relevant tables are imported bef
 
 ## 💡 Usage
 
-### Staff Login  
-Log in to mark attendance, view attendance records, student lists, and manage passwords.
+- **Staff Login**
+  - Log in to:
+    - Mark attendance
+    - View attendance records
+    - View student lists
+    - Change password
 
-### Student Login  
-Log in to view attendance history and submit anonymous feedback.
+- **Student Login**
+  - Log in to:
+    - View personal attendance history
+    - Submit anonymous feedback
 
-### Attendance Marking  
-Staff selects a date and marks each student as present or absent.
+- **Attendance Marking**
+  - Staff can:
+    - Select a date
+    - Mark students as present or absent
 
-### Feedback  
-Students can submit anonymous feedback to share their experience.
-
-
+- **Feedback**
+  - Students can:
+    - Submit anonymous feedback about their experience
+   
+      
 ## 📁 Project Structure
 
 | File                          | Description                             |
@@ -86,7 +95,7 @@ Students can submit anonymous feedback to share their experience.
 | `form.php`                    | Anonymous feedback submission           |
 
 
-## ✅ Final Thoughts
+## ✅ Takeaway
 
 This Attendance Management System offers a lightweight yet effective solution for educational institutions to streamline daily attendance tracking and enhance student-teacher communication.  
 Perfect for beginner-level web developers looking to explore PHP-MySQL applications!
