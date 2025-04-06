@@ -10,21 +10,10 @@ This system simplifies the attendance process by providing dedicated dashboards 
 
 ## 🌟 Key Features
 
-- **Dual User Interface**
-  - Separate dashboards for Staff and Students
-
-- **Staff Features**
-  - Mark attendance for students
-  - View attendance records
-  - View student list
-  - Change password
-
-- **Student Features**
-  - View personal attendance history
-  - Change password
-
-- **Feedback System**
-  - Anonymous feedback form for students
+The system provides two separate user dashboards—one for staff and one for students.  
+Staff members can mark attendance, view attendance records, access the student list, and update their passwords.  
+Students can view their own attendance history and change their passwords.  
+An anonymous feedback system is also available for students to share their experience.
 
 
 ## 🛠 Technologies Used
@@ -47,13 +36,20 @@ This system simplifies the attendance process by providing dedicated dashboards 
 
 ## 🔧 Database Configuration
 
-Update the following details in your `connection.php` file:
+1. Open the `connection.php` file in your project.
+2. Update the database connection details as shown below:
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "hwproject";
-Make sure the database hwproject is created and relevant tables are imported before using the system.
+    ```
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $db = "hwproject";
+    ```
+
+3. Make sure:
+   - The database named **hwproject** is created in your local MySQL server.
+   - All required tables are properly imported into the **hwproject** database.
+
 
 
 ## 💡 Usage
